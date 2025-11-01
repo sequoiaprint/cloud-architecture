@@ -1,4 +1,4 @@
-# cloud-architecture
+# sequoia-print-cloud-architecture
 
 This repository serves as the central documentation and configuration hub for Sequoia Print’s cloud infrastructure. It outlines the architecture, deployment workflows, and integrations that power our internal tools, automation pipelines, and data systems — from prepress automation to production monitoring.
 
